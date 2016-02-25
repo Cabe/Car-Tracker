@@ -1,0 +1,265 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2015.08.02 13:22:56 =~=~=~=~=~=~=~=~=~=~=~=
+AHRS Test Begin
+Gs x:-0.21 y:-0.22 z:3.84 pitch:-3.11 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-228 y:278 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:26.84
+Time (UTC):000000000 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.31 y:-0.33 z:5.76 pitch:-3.11 roll:3.26
+acc x:1966 y:-112 z:1966 comp x:-232 y:276 z:-859 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):000000000 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.36 y:-0.38 z:6.72 pitch:-3.09 roll:3.28
+acc x:1966 y:-113 z:1966 comp x:-229 y:274 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.39 y:-0.41 z:7.20 pitch:-3.10 roll:3.28
+acc x:1968 y:-113 z:1968 comp x:-229 y:276 z:-859 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.40 y:-0.43 z:7.44 pitch:-3.11 roll:3.29
+acc x:1966 y:-113 z:1966 comp x:-230 y:276 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.41 y:-0.43 z:7.56 pitch:-3.12 roll:3.27
+acc x:1968 y:-112 z:1968 comp x:-229 y:272 z:-856 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.62 pitch:-3.13 roll:3.28
+acc x:1966 y:-113 z:1966 comp x:-228 y:277 z:-858 gyro x:0.07 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.65 pitch:-3.12 roll:3.28
+acc x:1968 y:-113 z:1968 comp x:-230 y:272 z:-856 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.67 pitch:-3.13 roll:3.27
+acc x:1969 y:-112 z:1969 comp x:-231 y:276 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-227 y:275 z:-858 gyro x:0.07 y:-0.07 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-230 y:274 z:-858 gyro x:0.07 y:0.07 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.27
+acc x:1966 y:-113 z:1966 comp x:-230 y:274 z:-856 gyro x:0.00 y:0.00 z:0.00 temp:26.85
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-229 y:275 z:-860 gyro x:0.07 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.16 roll:3.29
+acc x:1966 y:-113 z:1966 comp x:-228 y:276 z:-857 gyro x:0.21 y:0.07 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.27
+acc x:1965 y:-112 z:1965 comp x:-229 y:275 z:-854 gyro x:0.00 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.27
+acc x:1968 y:-112 z:1968 comp x:-232 y:278 z:-857 gyro x:0.00 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.26
+acc x:1966 y:-112 z:1966 comp x:-226 y:277 z:-858 gyro x:0.07 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-229 y:275 z:-857 gyro x:0.07 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-232 y:275 z:-856 gyro x:0.07 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222014 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.27
+acc x:1967 y:-113 z:1967 comp x:-231 y:276 z:-856 gyro x:0.07 y:-0.07 z:0.00 temp:26.86
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.12 roll:3.26
+acc x:1969 y:-112 z:1969 comp x:-230 y:274 z:-855 gyro x:0.07 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.28
+acc x:1966 y:-113 z:1966 comp x:-230 y:272 z:-854 gyro x:0.00 y:0.00 z:0.00 temp:26.89
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.13 roll:3.27
+acc x:1968 y:-112 z:1968 comp x:-231 y:274 z:-856 gyro x:0.07 y:0.00 z:-0.07 temp:26.87
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-230 y:275 z:-859 gyro x:0.00 y:0.00 z:0.07 temp:26.87
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-229 y:272 z:-859 gyro x:0.00 y:0.00 z:0.00 temp:26.86
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-229 y:274 z:-857 gyro x:0.07 y:0.00 z:0.00 temp:26.89
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.12 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-229 y:275 z:-860 gyro x:0.00 y:0.00 z:0.00 temp:26.92
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1966 y:-112 z:1966 comp x:-230 y:278 z:-859 gyro x:0.00 y:0.00 z:0.00 temp:26.87
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.27
+acc x:1967 y:-113 z:1967 comp x:-229 y:273 z:-860 gyro x:0.07 y:0.00 z:0.00 temp:26.91
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-229 y:276 z:-860 gyro x:0.00 y:0.00 z:0.00 temp:26.89
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.10 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-226 y:274 z:-858 gyro x:0.07 y:-0.07 z:0.00 temp:26.91
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.10 roll:3.27
+acc x:1968 y:-112 z:1968 comp x:-230 y:277 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:26.95
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.25
+acc x:1967 y:-111 z:1967 comp x:-229 y:275 z:-861 gyro x:0.00 y:0.00 z:0.00 temp:26.92
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.13 roll:3.25
+acc x:1969 y:-112 z:1969 comp x:-228 y:277 z:-859 gyro x:0.07 y:0.00 z:0.00 temp:26.96
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.13 roll:3.24
+acc x:1968 y:-111 z:1968 comp x:-229 y:274 z:-858 gyro x:0.07 y:0.00 z:0.00 temp:26.92
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.27
+acc x:1965 y:-113 z:1965 comp x:-231 y:275 z:-854 gyro x:0.00 y:0.00 z:0.00 temp:26.94
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.26
+acc x:1965 y:-112 z:1965 comp x:-231 y:274 z:-856 gyro x:0.07 y:0.00 z:0.00 temp:26.94
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.25
+acc x:1968 y:-111 z:1968 comp x:-229 y:274 z:-858 gyro x:0.07 y:0.00 z:0.00 temp:26.95
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.43 z:7.68 pitch:-3.15 roll:3.24
+acc x:1966 y:-111 z:1966 comp x:-228 y:276 z:-855 gyro x:0.07 y:0.00 z:0.00 temp:26.97
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.25
+acc x:1966 y:-112 z:1966 comp x:-230 y:276 z:-859 gyro x:0.07 y:-0.07 z:0.00 temp:26.99
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.27
+acc x:1965 y:-113 z:1965 comp x:-229 y:275 z:-860 gyro x:0.07 y:0.00 z:0.00 temp:26.97
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.26
+acc x:1969 y:-112 z:1969 comp x:-227 y:274 z:-856 gyro x:0.07 y:0.00 z:0.00 temp:26.95
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.10 roll:3.29
+acc x:1966 y:-114 z:1966 comp x:-227 y:276 z:-856 gyro x:0.07 y:0.00 z:0.00 temp:26.99
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.10 roll:3.30
+acc x:1967 y:-114 z:1967 comp x:-231 y:278 z:-861 gyro x:0.00 y:0.00 z:0.00 temp:26.97
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.30
+acc x:1967 y:-113 z:1967 comp x:-229 y:277 z:-857 gyro x:0.00 y:0.00 z:-0.07 temp:27.01
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.26
+acc x:1967 y:-111 z:1967 comp x:-230 y:274 z:-857 gyro x:0.00 y:0.00 z:0.00 temp:27.01
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.12 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-227 y:276 z:-856 gyro x:0.00 y:0.00 z:0.00 temp:26.97
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.13 roll:3.24
+acc x:1968 y:-111 z:1968 comp x:-228 y:274 z:-858 gyro x:0.07 y:0.00 z:0.00 temp:26.98
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.15 roll:3.25
+acc x:1967 y:-112 z:1967 comp x:-229 y:274 z:-860 gyro x:0.07 y:0.00 z:0.00 temp:27.02
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.26
+acc x:1966 y:-112 z:1966 comp x:-230 y:275 z:-857 gyro x:-0.07 y:0.00 z:0.00 temp:26.99
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-229 y:273 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:27.00
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.27
+acc x:1967 y:-113 z:1967 comp x:-227 y:276 z:-859 gyro x:0.07 y:0.00 z:0.00 temp:27.01
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.28
+acc x:1966 y:-113 z:1966 comp x:-227 y:273 z:-856 gyro x:0.07 y:0.00 z:0.00 temp:27.01
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1967 y:-111 z:1967 comp x:-232 y:274 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:27.03
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.29
+acc x:1967 y:-114 z:1967 comp x:-230 y:276 z:-856 gyro x:-0.14 y:0.00 z:0.00 temp:27.04
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.10 roll:3.30
+acc x:1968 y:-114 z:1968 comp x:-228 y:278 z:-857 gyro x:0.28 y:0.07 z:0.00 temp:27.04
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.28
+acc x:1967 y:-112 z:1967 comp x:-228 y:273 z:-860 gyro x:-0.21 y:0.00 z:0.00 temp:27.03
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.16 roll:3.29
+acc x:1964 y:-113 z:1964 comp x:-228 y:274 z:-861 gyro x:1.04 y:0.42 z:0.00 temp:26.99
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.43 y:-0.44 z:7.68 pitch:-3.16 roll:3.25
+acc x:1965 y:-110 z:1965 comp x:-227 y:273 z:-858 gyro x:0.77 y:0.28 z:0.07 temp:27.04
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.43 y:-0.44 z:7.68 pitch:-3.17 roll:3.25
+acc x:1967 y:-112 z:1967 comp x:-230 y:276 z:-858 gyro x:0.00 y:-0.21 z:0.00 temp:27.04
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.43 y:-0.44 z:7.68 pitch:-3.17 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-231 y:277 z:-859 gyro x:0.21 y:-0.07 z:0.00 temp:27.05
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.43 y:-0.44 z:7.68 pitch:-3.17 roll:3.27
+acc x:1968 y:-113 z:1968 comp x:-225 y:276 z:-861 gyro x:-0.07 y:-0.07 z:0.00 temp:27.05
+Time (UTC):122222008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.43 y:-0.44 z:7.69 pitch:-3.18 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-228 y:279 z:-860 gyro x:0.35 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-231 y:276 z:-859 gyro x:-0.28 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-229 y:278 z:-856 gyro x:0.07 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.29
+acc x:1966 y:-113 z:1966 comp x:-229 y:273 z:-855 gyro x:0.00 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.26
+acc x:1967 y:-111 z:1967 comp x:-228 y:278 z:-858 gyro x:0.14 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.26
+acc x:1966 y:-112 z:1966 comp x:-228 y:276 z:-859 gyro x:0.00 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-229 y:277 z:-856 gyro x:0.00 y:0.00 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.13 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-228 y:274 z:-856 gyro x:0.28 y:-0.07 z:0.00 temp:27.05
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.12 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-228 y:273 z:-859 gyro x:-0.14 y:-0.07 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.13 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-228 y:275 z:-857 gyro x:0.00 y:-0.07 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.12 roll:3.26
+acc x:1968 y:-112 z:1968 comp x:-227 y:278 z:-859 gyro x:0.00 y:0.00 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.10 roll:3.27
+acc x:1967 y:-113 z:1967 comp x:-231 y:274 z:-856 gyro x:0.00 y:0.00 z:-0.07 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.69 pitch:-3.12 roll:3.29
+acc x:1968 y:-114 z:1968 comp x:-226 y:273 z:-857 gyro x:0.07 y:0.00 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.28
+acc x:1966 y:-112 z:1966 comp x:-229 y:274 z:-859 gyro x:0.07 y:0.00 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-230 y:276 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.14 roll:3.26
+acc x:1967 y:-111 z:1967 comp x:-229 y:276 z:-857 gyro x:0.00 y:-0.07 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.13 roll:3.25
+acc x:1963 y:-111 z:1963 comp x:-230 y:276 z:-858 gyro x:-0.42 y:-0.14 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.12 roll:3.27
+acc x:1965 y:-113 z:1965 comp x:-229 y:273 z:-856 gyro x:0.00 y:0.00 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-228 y:274 z:-857 gyro x:0.07 y:0.00 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.27
+acc x:1966 y:-112 z:1966 comp x:-229 y:274 z:-859 gyro x:0.07 y:-0.07 z:0.00 temp:27.06
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.26
+acc x:1967 y:-112 z:1967 comp x:-229 y:274 z:-857 gyro x:0.07 y:-0.07 z:-0.07 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.26
+acc x:1965 y:-112 z:1965 comp x:-228 y:275 z:-857 gyro x:0.07 y:0.00 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-229 y:275 z:-860 gyro x:0.00 y:0.00 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.27
+acc x:1966 y:-112 z:1966 comp x:-229 y:274 z:-856 gyro x:0.00 y:-0.07 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-229 y:276 z:-858 gyro x:0.00 y:0.00 z:0.00 temp:27.07
+Time (UTC):1223023008 Lat:0.000000 Long:0.000000 NumSats:0 Speed(m/s):0.00 Alt(m):0.00
+Gs x:-0.42 y:-0.44 z:7.68 pitch:-3.11 roll:3.28
+acc x:1967 y:-113 z:1967 comp x:-229 y:276 z:-861 gyro x:0.00 y:0.00 z:0.00 temp:27.07
